@@ -22,5 +22,12 @@ export default sidebar({
       icon: "person-chalkboard",
       link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
     },
+    {
+      text: "其他",
+      icon: "laptop-code",
+      prefix: "other/",
+      link: "other/",
+      children: "structure",
+    },
   ],
 });

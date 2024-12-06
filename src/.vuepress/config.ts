@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "koko博客",
-  description: "vuepress-theme-hope 的博客演示",
+  description: "参考 vuepress-theme-hope 改的的博客",
 
   theme,
 
