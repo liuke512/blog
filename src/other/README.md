@@ -53,6 +53,7 @@ tag:
 - [Cursor](https://www.cursor.com/)
 
 ### 前端
+- [VuePress](https://vuepress.vuejs.org/)
 - [vue.js](https://cn.vuejs.org/)
 - [uni-app](https://uniapp.dcloud.net.cn/)
 - [Element](https://element.eleme.cn/#/zh-CN)
