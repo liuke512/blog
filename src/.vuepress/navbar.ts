@@ -4,6 +4,24 @@ export default navbar([
   "/",
   "/demo/",
   {
+    text: "学习记录",
+    icon: "study",
+    prefix: "/study/",
+    children: [
+      {
+        text: "springCloud",
+        icon: "pen-to-square",
+        prefix: "springCloud/",
+        children: [
+          { text: "consul", icon: "pen-to-square", link: "consul" },
+          "OpenFeign",
+          "3",
+          "4",
+        ],
+      },
+    ]
+  },
+  {
     text: "博文",
     icon: "pen-to-square",
     prefix: "/posts/",

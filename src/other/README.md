@@ -1,6 +1,7 @@
 ---
 title: 其他
 index: false
+sticky: true
 category: 
   - 链接
 tag:

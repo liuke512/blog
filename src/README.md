@@ -1,10 +1,12 @@
 ---
-home: false
+home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+# heroImage: /assets/images/avatar.jpg
+# heroImageDark: /assets/images/avatar.jpg
+heroText: 打工人
+bgImage: /assets/images/bg.jpeg
 heroFullScreen: true
 tagline: 好好学习，天天向上
 projects:
@@ -38,7 +40,7 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: 如有侵权，敬请联系！我会立即删除，联系邮箱： 403639552@qq.com
 ---
 
 这是一个博客主页的案例。

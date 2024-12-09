@@ -4,16 +4,16 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://liuke512.github.io/blog/",
 
   author: {
-    name: "Mr.Liu333",
+    name: "Mr.Liu",
     url: "https://liuke512.github.io/blog/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/images/avatar.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -26,7 +26,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "默认页脚222",
   displayFooter: true,
 
   // 博客相关

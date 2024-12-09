@@ -8,7 +8,7 @@ icon: file
 # 这是侧边栏的顺序
 order: 3
 # 设置作者
-author: Mr.Liu1
+author: Mr.Liu
 # 设置写作时间
 date: 2024-12-06
 # 一个页面可以有多个分类
@@ -50,7 +50,7 @@ title: 页面标题
 
 你可以在 Markdown 的 Frontmatter 中设置页面信息。
 
-- 作者设置为 Mr.Liu4。
+- 作者设置为 Mr.Liu。
 - 写作日期为 2020 年 1 月 1 日
 - 分类为 “使用指南”
 - 标签为 “页面配置” 和 “使用指南”
@@ -117,7 +117,7 @@ const MyComponent = defineComponent({
 - 一个卡片:
 
   ```component VPCard
-  title: Mr.Liu2
+  title: Mr.Liu
   desc: Where there is light, there is hope
   logo: https://mister-hope.com/logo.svg
   link: https://mister-hope.com
