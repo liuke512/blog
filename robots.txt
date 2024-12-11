@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://liuke512.github.io/blog/blog/sitemap.xml
+Sitemap: https://liuke512.github.io/blog/sitemap.xml
