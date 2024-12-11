@@ -15,7 +15,7 @@ export default navbar([
         children: [
           { text: "consul", icon: "pen-to-square", link: "consul" },
           "OpenFeign",
-          "3",
+          "Seata",
           "4",
         ],
       },

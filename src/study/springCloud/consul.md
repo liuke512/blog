@@ -44,6 +44,12 @@ chcp 65001
 @pause
 ```
 
+::: tip
+- D:\install\consul\consul.exe 替换成你的 consul 目录
+- D:\install\consul\mydata 替换成你的 consul 数据保存的目录
+:::
+
+
 ### 访问
 http://localhost:8500
 
