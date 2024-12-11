@@ -95,10 +95,10 @@ Seata 是一款开源的分布式事务解决方案，致力于提供高性能�
 [官网下载](https://seata.apache.org/zh-cn/unversioned/download/seata-server)
 下载二进制包后解压！
 
-![解压后文件](/assets/images/seata/seata1.jpg)
+![解压后文件](/blog/assets/images/seata/seata1.jpg)
 
 ### 修改配置文件
-![conf目录](/assets/images/seata/seata2.png)
+![conf目录](/blog/assets/images/seata/seata2.png)
 
 修改配置文件 application.yml
 ```yml
@@ -272,7 +272,7 @@ CREATE TABLE IF NOT EXISTS `vgroup_table`
 ```
 
 ### 启动
-![bin目录](/assets/images/seata/seata3.png)
+![bin目录](/blog/assets/images/seata/seata3.png)
 
 双击  seata-server.bat 即可启动！
 
@@ -281,7 +281,7 @@ http://localhost:7091/
 
 账号密码见[修改配置文件](#修改配置文件)中的 console:user:username 和 console:user:password（seata）
 
-![seata管理页](/assets/images/seata/seata_fangwen.png)
+![seata管理页](/blog/assets/images/seata/seata_fangwen.png)
 
 ## 使用seata
 
@@ -1320,4 +1320,4 @@ public class Storage implements Serializable {
 
 
 ### 运行中
-![运行时](/assets/images/seata/seata_running.png)
+![运行时](/blog/assets/images/seata/seata_running.png)
